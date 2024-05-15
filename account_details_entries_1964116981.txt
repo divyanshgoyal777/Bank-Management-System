@@ -1,0 +1,23 @@
+Account Details: 
+Name: Divyansh Goyal
+Account Number: 1964116981
+Account Balance: 99500.00
+Loan Balance: 0.00
+
+Entries: 
+Sender's name: Divyansh Goyal
+Receiver's name: Ankit Yadav
+Amount: 55000.00
+
+Sender's name: Shalini bansal
+Receiver's name: Divyansh Goyal
+Amount: 34500.00
+
+Sender's name: Ankit Yadav
+Receiver's name: Divyansh Goyal
+Amount: 90000.00
+
+Sender's name: Divyansh Goyal
+Receiver's name: Shalini bansal
+Amount: 70000.00
+

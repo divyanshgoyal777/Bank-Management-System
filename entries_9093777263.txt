@@ -1,0 +1,12 @@
+Sender's name: Shalini bansal
+Receiver's name: Ankit Yadav
+Amount: 23400.00
+
+Sender's name: Shalini bansal
+Receiver's name: Divyansh Goyal
+Amount: 34500.00
+
+Sender's name: Divyansh Goyal
+Receiver's name: Shalini bansal
+Amount: 70000.00
+
