@@ -12,4 +12,4 @@ This repository contains a console-based bank management system implemented in C
 - Download account details
 - Download transaction history for a specific account
 - You can also download both account details and transaction history in one file.
-- Data will not be deleted if you close your system; this program will save all accounts and entries in your system as .txt files.
+- Data will not be deleted if you close your system, this program will save all accounts and entries in your system as .txt files.
