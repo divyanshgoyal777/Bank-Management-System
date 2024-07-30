@@ -1,6 +1,6 @@
 # Bank Management System in C (Developed by Divyansh Goyal)
 
-This repository contains a console-based bank management system implemented in C. The system allows users to create accounts, edit account details, perform transactions, issue loans, view and dowload transaction history and account details.
+This repository contains a console-based bank management system implemented in C. The system allows users to create accounts, edit account details, perform transactions, issue loans, view and download transaction history and account details.
 
 ## Features
 - Create a new account
